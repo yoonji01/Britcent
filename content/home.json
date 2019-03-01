@@ -1,0 +1,219 @@
+{
+  "title": "Home",
+  "contact": {
+    "title": "Contact title",
+    "text": "Contact text",
+    "block": [
+      {
+        "href": "#",
+        "text": "Contact Us"
+      }
+    ]
+  },
+  "header": {
+    "button": "Get Started",
+    "href": "#"
+  },
+  "splash": {
+    "title": "Lorem ipsum dolor sit amet.",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ab, ad dolorum nam numquam voluptatibus."
+  },
+  "form": {
+    "title": "Contct Us",
+    "header": "How can we help?",
+    "paragraph": "If you have a project you'd like to discuss with us we'd love to hear from you.",
+    "button": "Read More"
+  },
+  "intro": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, voluptatum placeat nostrum nihil, odio doloribus. Porro itaque debitis, molestias facere.",
+  "icon_splash": {
+    "title": "Have any questions?",
+    "text": "Please feel free to email us below",
+    "anchor": "Email us",
+    "href": "mailto:team@diversitea.co"
+  },
+  "title": "BRITCENT",
+  "paragraph": "Personalised 1:1 Lessons with Qualified English Tutors",
+  "image_state": "static",
+  "image": "/images/uploads/0c3a0830-extended.jpg",
+  "features": {
+    "title": "Lorem ipsum",
+    "type": "Font Awesome",
+    "block": [
+      {
+        "icon": "chalkboard-teacher",
+        "heading": "Lorem ipsum.",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione error perspiciatis, molestiae nobis."
+      },
+      {
+        "icon": "university",
+        "heading": "Lorem.",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione error perspiciatis, molestiae nobis."
+      },
+      {
+        "icon": "home",
+        "heading": "Lorem ipsum dolor.",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione error perspiciatis, molestiae nobis."
+      }
+    ]
+  },
+  "services": {
+    "title": "Why Britcent?",
+    "type": "Font Awesome",
+    "block": [
+      {
+        "icon": "home",
+        "heading": "Boarding School Guardianship",
+        "paragraph": "Professional, first class guardianship service to overseas students in UK Boarding Schools and Colleges."
+      },
+      {
+        "icon": "graduation-cap",
+        "heading": "University Guardianship",
+        "paragraph": "Professional, first class guardianship service to overseas students in UK Boarding Schools and Colleges."
+      },
+      {
+        "icon": "university",
+        "heading": "Boarding Schools",
+        "paragraph": "We offers expert Boarding School placement advice to overseas parents and agents."
+      }
+
+    ]
+  },
+  "services_alt": {
+    "title": "Programmes",
+    "block": [
+      {
+        "image": "/images/uploads/home.svg",
+        "heading": "Guardianship",
+        "paragraph": "Bright World provides a professional, first class guardianship service to overseas students in UK Boarding Schools and Colleges. Our leading programmes are available at over 500 schools and colleges across England, Scotland and Wales."
+      },
+      {
+        "image": "/images/uploads/school.svg",
+        "heading": "Boarding School",
+        "paragraph": "Bright World offers expert Boarding School placement advice to overseas parents and agents. Our placement service ensures that all our students find their place within a UK Independent Boarding School."
+      },
+      {
+        "image": "/images/uploads/destination.svg",
+        "heading": "Holiday Programmes",
+        "paragraph": "Bright World offers a selection of holiday courses available at a range of UK Boarding Schools, Colleges and Centres."
+      },
+      {
+        "image": "/images/uploads/graduation.svg",
+        "heading": "UK University Guardianship",
+        "paragraph": "Bright World offers a comprehensive, UK Guardianship to overseas students studying at UK University. Students aged under 18 at the point of admission to a UK University will be required to nominate a UK guardian."
+      }
+    ]
+  },
+  "services_native_icons": {
+    "title": "Our Team in Sussex",
+    "block": [
+      {
+        "image": "/images/uploads/female-student.svg",
+        "heading": "Guardianship",
+        "paragraph": "Bright World provides a professional, first class guardianship service to overseas students in UK Boarding Schools and Colleges. Our leading programmes are available at over 500 schools and colleges across England, Scotland and Wales."
+      },
+      {
+        "image": "/images/uploads/male-student.svg",
+        "heading": "Boarding School",
+        "paragraph": "Bright World offers expert Boarding School placement advice to overseas parents and agents. Our placement service ensures that all our students find their place within a UK Independent Boarding School."
+      },
+      {
+        "image": "/images/uploads/sun.svg",
+        "heading": "Holiday Programmes",
+        "paragraph": "Bright World offers a selection of holiday courses available at a range of UK Boarding Schools, Colleges and Centres."
+      },
+      {
+        "image": "/images/uploads/mortar-board.svg",
+        "heading": "UK University Guardianship",
+        "paragraph": "Bright World offers a comprehensive, UK Guardianship to overseas students studying at UK University. Students aged under 18 at the point of admission to a UK University will be required to nominate a UK guardian."
+      }
+    ]
+  },
+  "options": {
+    "title": "Join Us",
+    "block": [
+      {
+        "icon": "child",
+        "heading": "Become a host family",
+        "paragraph": "Join our host family program and host international students."
+      },
+      {
+        "icon": "user",
+        "heading": "Become an agent",
+        "paragraph": "Join our education agent network."
+      },
+      {
+        "icon": "user",
+        "heading": "Become an agent",
+        "paragraph": "Join our education agent network."
+      },
+      {
+        "icon": "user",
+        "heading": "Become an agent",
+        "paragraph": "Join our education agent network."
+      }
+    ]
+  },
+  "logos": {
+    "title": "Trusted By",
+    "type": "Custom",
+    "link": [
+      {
+        "href": "#",
+        "text": "Call to action"
+      }
+    ],
+    "block": [
+      {
+        "image": "/images/uploads/logo-aegis.png"
+      },
+      {
+        "image": "/images/uploads/logo-award-service.jpg"
+      },
+      {
+        "image": "/images/uploads/logo-euk-corporate.jpg"
+      },
+      {
+        "image": "/images/uploads/logo-protect-children.png"
+      }
+    ]
+  },
+  "testimonialButton": {
+    "title": "Read More",
+    "hreft": "#"
+  },
+  "testimonial": [
+    {
+      "quote": "Bright World is a highly efficient Guardianship Organisation that provides a quality service for the students that they care for. Children’s safety and welfare is at the heart of the service that they provide.",
+      "author": "Jacqueline Scotney, Lead Inspector, AEGIS"
+    },
+    {
+      "quote": "Dear Cory, we would like to thank you for the perfect services you provided Nicolas. It was always a pleasure to work with you. All the best!",
+      "author": "Felix Schmid"
+    },
+    {
+      "quote": "Bright World helped us in many situations that needed special attention and prompt action.",
+      "author": "Yana Torokhova"
+    },
+    {
+      "quote": "I have to say that Bright World provides the best guardianship service I have known in my 15 years in boarding. So thank you very much from me my team and on behalf of the pupils.",
+      "author": "John Gale, Housemaster, LVS"
+    }
+  ],
+  "offers": {
+    "title": "Offers",
+    "block": [
+      {
+        "heading": "How do guardians work with schools?",
+        "image": "https://tailwindcss.com/img/card-top.jpg",
+        "paragraph": "Whether applying for guardianship as a parent, overseas agent or student. When it comes to schools and guardians, just like any relationship; partnership, compromise and flexibility are key. But how do both parties navigate what can be, at times a tricky relationship?",
+        "href": "https://www.brightworld.co.uk/blog/post.asp?post=how_do_guardians_work_with_schools_76"
+      },
+      {
+        "heading": "Why is my UK boarding school is asking me to appoint a guardian?",
+        "image": "https://tailwindcss.com/img/card-top.jpg",
+        "paragraph": "You’ve just arrived at school, you’re all set to start your first term and you are asked for the name of your nominated UK guardian. So, what is a guardian, and why is your school asking you to appoint one?",
+        "href": "https://www.brightworld.co.uk/blog/post.asp?post=why_has_my_uk_boarding_school_asked_me_to_appoint_a_guardian_71"
+      }
+    ]
+  }
+}

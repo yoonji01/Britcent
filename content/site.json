@@ -1,0 +1,123 @@
+{
+  "title": "Bright World",
+  "description": "This is the description",
+  "image_url": "",
+  "contact_information": [
+    {
+      "postal": "Forge House, 105 High Street, Hurstpierpoint, West Sussex, BN6 9PU",
+      "phone": "+044777",
+      "email": "email@email.com"
+    }
+  ],
+  "social": [
+    {
+      "type": "facebook",
+      "href": "https://www.facebook.com/pages/Bright-World-Education-and-Guardianships/165217157884"
+    },
+    {
+      "type": "weixin",
+      "href": "https://www.brightworld.co.uk/education/index.asp?page=wechat_205"
+    },
+    {
+      "type": "instagram",
+      "href": "https://www.instagram.com/brightworldguardianships/"
+    },
+    {
+      "type": "linkedin",
+      "href": "https://www.linkedin.com/company/bright-world-education-&-guardianships"
+    },
+    {
+      "type": "twitter",
+      "href": "https://www.twitter.com/brightworldnews"
+    }
+  ],
+  "appended_links": [
+    {
+      "text": "Policies",
+      "href": "#"
+    },
+    {
+      "text": "About BrightWorld",
+      "href": "#"
+    }
+  ],
+  "nav": [
+    {
+      "text": "About Bright World",
+      "href": "#",
+      "content": [
+        {
+          "text": "More about the company",
+          "href": "https://www.brightworld.co.uk/info/"
+        },
+        {
+          "text": "Head Office team",
+          "href": "https://www.brightworld.co.uk/info/meet-the-team.asp"
+        },
+        {
+          "text": "Bright World Buddy team",
+          "href": "https://www.brightworld.co.uk/info/meet-the-bright-world-buddy-team.asp"
+        }
+      ]
+    },
+    {
+      "text": "Guardianship",
+      "href": "#",
+      "content": [
+        {
+          "text": "UK Summer Language Courses",
+          "href": "https://www.brightworld.co.uk/language/"
+        },
+        {
+          "text": "Half Term Programme",
+          "href": "https://www.brightworld.co.uk/education/index.asp?page=relax_revise_holiday_programmes_208"
+        },
+        {
+          "text": "Easter Programme",
+          "href": "https://www.brightworld.co.uk/education/index.asp?page=relax_revise_holiday_programmes_208"
+        }
+      ]
+    },
+    {
+      "text": "Boarding Schools",
+      "href": "/boardingschools",
+      "content": [
+        {
+          "text": "Top UK Boarding Schools",
+          "href": "https://www.brightworld.co.uk/boarding/"
+        },
+        {
+          "text": "Boarding School Placement Process",
+          "href": "https://www.brightworld.co.uk/guardianship/details.asp?page=how_does_the_process_work_71"
+        },
+        {
+          "text": "British Education System",
+          "href": "https://www.brightworld.co.uk/guardianship/details.asp?page=british_education_system_43"
+        }
+      ]
+    },
+    {
+      "text": "Holiday Courses",
+      "href": "#",
+      "content": [
+        {
+          "text": "UK Summer Language Courses",
+          "href": "https://www.brightworld.co.uk/language/"
+        },
+        {
+          "text": "Half Term Programme",
+          "href": "https://www.brightworld.co.uk/education/index.asp?page=relax_revise_holiday_programmes_208"
+        },
+        {
+          "text": "Easter Programme",
+          "href": "https://www.brightworld.co.uk/education/index.asp?page=relax_revise_holiday_programmes_208"
+        }
+      ]
+    }
+  ],
+  "logo": {
+  "text": "Britcent",
+  "name": "logo",
+  "type": "svg"
+  }
+}
